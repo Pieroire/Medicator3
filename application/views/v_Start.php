@@ -18,7 +18,7 @@
   
     <div align="center">
         <button type="button" class="btn btn-primary"><a style="color: white;" href="<?php echo base_url(); ?>index.php/Ctrl_Medicator/index"> Gestion des medicaments </a></button></br></br>
-        <button type="button" class="btn btn-primary"><a style="color: white;" href="<?php echo base_url(); ?>index.php/Ctrl_MedicatorG/index"> Gestion des visiteurs </a></button>
+       
     </div>
 </body>
 </html>
